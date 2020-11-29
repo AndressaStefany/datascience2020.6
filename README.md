@@ -33,4 +33,12 @@
 		- Scatter and Marginal Plot
 		- Coordinate and Categories Parallel
 	- Dash app
-
+7. Lesson #07 
+	- Fundamentals of Complex Network Analysis
+	- Introduction to NetworkX
+	- CNA DataViz
+8. Lesson #08 
+	- Network visualization using Gephi
+	- Combine NetworkX & Gephi
+	- Case study I: network of nutrients and food types
+	- Case study II: network of Wikipedia Pages
